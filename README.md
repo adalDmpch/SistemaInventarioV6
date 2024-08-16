@@ -1,0 +1,2 @@
+# MiniOs
+"# SistemaInventarioV6" 
